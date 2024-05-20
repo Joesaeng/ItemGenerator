@@ -1,0 +1,156 @@
+{
+  "datas": [
+    {
+      "id": 0,
+      "itemLevel": 0,
+      "name": "SteelSword",
+      "equipmentType": "Sword",
+      "minValue": 5,
+      "maxValue": 10
+    },
+    {
+      "id": 1,
+      "itemLevel": 5,
+      "name": "ElvenSword",
+      "equipmentType": "Sword",
+      "minValue": 17,
+      "maxValue": 29
+    },
+    {
+      "id": 2,
+      "itemLevel": 0,
+      "name": "SteelSpear",
+      "equipmentType": "Spear",
+      "minValue": 11,
+      "maxValue": 23
+    },
+    {
+      "id": 3,
+      "itemLevel": 5,
+      "name": "ElvenSpear",
+      "equipmentType": "Spear",
+      "minValue": 35,
+      "maxValue": 55
+    },
+    {
+      "id": 4,
+      "itemLevel": 0,
+      "name": "SteelAxe",
+      "equipmentType": "Axe",
+      "minValue": 3,
+      "maxValue": 25
+    },
+    {
+      "id": 5,
+      "itemLevel": 5,
+      "name": "ElvenAxe",
+      "equipmentType": "Axe",
+      "minValue": 13,
+      "maxValue": 77
+    },
+    {
+      "id": 6,
+      "itemLevel": 0,
+      "name": "ShortBow",
+      "equipmentType": "Bow",
+      "minValue": 3,
+      "maxValue": 6
+    },
+    {
+      "id": 7,
+      "itemLevel": 5,
+      "name": "ElvenBow",
+      "equipmentType": "Bow",
+      "minValue": 11,
+      "maxValue": 16
+    },
+    {
+      "id": 8,
+      "itemLevel": 0,
+      "name": "SteelHelmet",
+      "equipmentType": "Helmet",
+      "minValue": 3,
+      "maxValue": 5
+    },
+    {
+      "id": 9,
+      "itemLevel": 5,
+      "name": "ElvenHelmet",
+      "equipmentType": "Helmet",
+      "minValue": 7,
+      "maxValue": 11
+    },
+    {
+      "id": 10,
+      "itemLevel": 0,
+      "name": "SteelPlate",
+      "equipmentType": "ChestPlate",
+      "minValue": 15,
+      "maxValue": 25
+    },
+    {
+      "id": 11,
+      "itemLevel": 5,
+      "name": "ElvenPlate",
+      "equipmentType": "ChestPlate",
+      "minValue": 22,
+      "maxValue": 35
+    },
+    {
+      "id": 12,
+      "itemLevel": 0,
+      "name": "SteelGloves",
+      "equipmentType": "Gloves",
+      "minValue": 2,
+      "maxValue": 5
+    },
+    {
+      "id": 13,
+      "itemLevel": 5,
+      "name": "ElvenGloves",
+      "equipmentType": "Gloves",
+      "minValue": 4,
+      "maxValue": 8
+    },
+    {
+      "id": 14,
+      "itemLevel": 0,
+      "name": "SteelShoes",
+      "equipmentType": "Shoes",
+      "minValue": 3,
+      "maxValue": 6
+    },
+    {
+      "id": 15,
+      "itemLevel": 5,
+      "name": "ElvenShoes",
+      "equipmentType": "Shoes",
+      "minValue": 5,
+      "maxValue": 10
+    },
+    {
+      "id": 16,
+      "itemLevel": 0,
+      "name": "Ring",
+      "equipmentType": "Ring",
+      "minValue": 0,
+      "maxValue": 0
+    },
+    {
+      "id": 17,
+      "itemLevel": 0,
+      "name": "Bracelet",
+      "equipmentType": "Bracelet",
+      "minValue": 0,
+      "maxValue": 0
+    },
+    {
+      "id": 18,
+      "itemLevel": 0,
+      "name": "Necklace",
+      "equipmentType": "Necklace",
+      "minValue": 0,
+      "maxValue": 0
+    }
+  ]
+}

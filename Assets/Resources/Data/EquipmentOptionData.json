@@ -1,0 +1,538 @@
+{
+  "datas": [
+    {
+      "id": 0,
+      "equipmentOptionGrade": "Low",
+      "equipmentOptionType": "IncreaseDamage",
+      "applicableParts": [
+        "Weapon"
+      ],
+      "weight": 100,
+      "minValue": 0.25,
+      "maxValue": 0.5,
+      "isFloat": true
+    },
+    {
+      "id": 1,
+      "equipmentOptionGrade": "Middle",
+      "equipmentOptionType": "IncreaseDamage",
+      "applicableParts": [
+        "Weapon"
+      ],
+      "weight": 50,
+      "minValue": 0.75,
+      "maxValue": 1.5,
+      "isFloat": true
+    },
+    {
+      "id": 2,
+      "equipmentOptionGrade": "High",
+      "equipmentOptionType": "IncreaseDamage",
+      "applicableParts": [
+        "Weapon"
+      ],
+      "weight": 20,
+      "minValue": 2.0,
+      "maxValue": 3.0,
+      "isFloat": true
+    },
+    {
+      "id": 3,
+      "equipmentOptionGrade": "Low",
+      "equipmentOptionType": "IncreaseAttackSpeed",
+      "applicableParts": [
+        "Weapon",
+        "Gloves"
+      ],
+      "weight": 100,
+      "minValue": 0.1,
+      "maxValue": 0.15,
+      "isFloat": true
+    },
+    {
+      "id": 4,
+      "equipmentOptionGrade": "Middle",
+      "equipmentOptionType": "IncreaseAttackSpeed",
+      "applicableParts": [
+        "Weapon",
+        "Gloves"
+      ],
+      "weight": 50,
+      "minValue": 0.2,
+      "maxValue": 0.25,
+      "isFloat": true
+    },
+    {
+      "id": 5,
+      "equipmentOptionGrade": "High",
+      "equipmentOptionType": "IncreaseAttackSpeed",
+      "applicableParts": [
+        "Weapon",
+        "Gloves"
+      ],
+      "weight": 20,
+      "minValue": 0.3,
+      "maxValue": 0.4,
+      "isFloat": true
+    },
+    {
+      "id": 6,
+      "equipmentOptionGrade": "Low",
+      "equipmentOptionType": "IncreaseMoveSpeed",
+      "applicableParts": [
+        "Shoes"
+      ],
+      "weight": 100,
+      "minValue": 0.1,
+      "maxValue": 0.15,
+      "isFloat": true
+    },
+    {
+      "id": 7,
+      "equipmentOptionGrade": "Middle",
+      "equipmentOptionType": "IncreaseMoveSpeed",
+      "applicableParts": [
+        "Shoes"
+      ],
+      "weight": 50,
+      "minValue": 0.2,
+      "maxValue": 0.25,
+      "isFloat": true
+    },
+    {
+      "id": 8,
+      "equipmentOptionGrade": "High",
+      "equipmentOptionType": "IncreaseMoveSpeed",
+      "applicableParts": [
+        "Shoes"
+      ],
+      "weight": 20,
+      "minValue": 0.3,
+      "maxValue": 0.4,
+      "isFloat": true
+    },
+    {
+      "id": 9,
+      "equipmentOptionGrade": "Low",
+      "equipmentOptionType": "IncreaseDefense",
+      "applicableParts": [
+        "Armor"
+      ],
+      "weight": 100,
+      "minValue": 0.2,
+      "maxValue": 0.4,
+      "isFloat": true
+    },
+    {
+      "id": 10,
+      "equipmentOptionGrade": "Middle",
+      "equipmentOptionType": "IncreaseDefense",
+      "applicableParts": [
+        "Armor"
+      ],
+      "weight": 50,
+      "minValue": 0.5,
+      "maxValue": 0.7,
+      "isFloat": true
+    },
+    {
+      "id": 11,
+      "equipmentOptionGrade": "High",
+      "equipmentOptionType": "IncreaseDefense",
+      "applicableParts": [
+        "Armor"
+      ],
+      "weight": 20,
+      "minValue": 0.8,
+      "maxValue": 1.0,
+      "isFloat": true
+    },
+    {
+      "id": 12,
+      "equipmentOptionGrade": "Low",
+      "equipmentOptionType": "IncreaseHealth",
+      "applicableParts": [
+        "ChestPlate",
+        "Helmet"
+      ],
+      "weight": 100,
+      "minValue": 0.1,
+      "maxValue": 0.15,
+      "isFloat": true
+    },
+    {
+      "id": 13,
+      "equipmentOptionGrade": "Middle",
+      "equipmentOptionType": "IncreaseHealth",
+      "applicableParts": [
+        "ChestPlate",
+        "Helmet"
+      ],
+      "weight": 50,
+      "minValue": 0.2,
+      "maxValue": 0.25,
+      "isFloat": true
+    },
+    {
+      "id": 14,
+      "equipmentOptionGrade": "High",
+      "equipmentOptionType": "IncreaseHealth",
+      "applicableParts": [
+        "ChestPlate",
+        "Helmet"
+      ],
+      "weight": 20,
+      "minValue": 0.3,
+      "maxValue": 0.4,
+      "isFloat": true
+    },
+    {
+      "id": 15,
+      "equipmentOptionGrade": "Low",
+      "equipmentOptionType": "IncreaseAttackRange",
+      "applicableParts": [
+        "RangeWeapon"
+      ],
+      "weight": 50,
+      "minValue": 0.1,
+      "maxValue": 0.15,
+      "isFloat": true
+    },
+    {
+      "id": 16,
+      "equipmentOptionGrade": "Middle",
+      "equipmentOptionType": "IncreaseAttackRange",
+      "applicableParts": [
+        "RangeWeapon"
+      ],
+      "weight": 25,
+      "minValue": 0.2,
+      "maxValue": 0.3,
+      "isFloat": true
+    },
+    {
+      "id": 17,
+      "equipmentOptionGrade": "High",
+      "equipmentOptionType": "IncreaseAttackRange",
+      "applicableParts": [
+        "RangeWeapon"
+      ],
+      "weight": 15,
+      "minValue": 0.4,
+      "maxValue": 0.5,
+      "isFloat": true
+    },
+    {
+      "id": 18,
+      "equipmentOptionGrade": "Low",
+      "equipmentOptionType": "AdditionalDamage",
+      "applicableParts": [
+        "Accessory",
+        "Weapon"
+      ],
+      "weight": 20,
+      "minValue": 5.0,
+      "maxValue": 10.0,
+      "isFloat": false
+    },
+    {
+      "id": 19,
+      "equipmentOptionGrade": "Middle",
+      "equipmentOptionType": "AdditionalDamage",
+      "applicableParts": [
+        "Accessory",
+        "Weapon"
+      ],
+      "weight": 10,
+      "minValue": 15.0,
+      "maxValue": 25.0,
+      "isFloat": false
+    },
+    {
+      "id": 20,
+      "equipmentOptionGrade": "High",
+      "equipmentOptionType": "AdditionalDamage",
+      "applicableParts": [
+        "Accessory",
+        "Weapon"
+      ],
+      "weight": 3,
+      "minValue": 25.0,
+      "maxValue": 40.0,
+      "isFloat": false
+    },
+    {
+      "id": 21,
+      "equipmentOptionGrade": "Low",
+      "equipmentOptionType": "DamageReduce",
+      "applicableParts": [
+        "Helmet",
+        "Bracelet"
+      ],
+      "weight": 50,
+      "minValue": 5.0,
+      "maxValue": 10.0,
+      "isFloat": false
+    },
+    {
+      "id": 22,
+      "equipmentOptionGrade": "Middle",
+      "equipmentOptionType": "DamageReduce",
+      "applicableParts": [
+        "Helmet",
+        "Bracelet"
+      ],
+      "weight": 25,
+      "minValue": 15.0,
+      "maxValue": 25.0,
+      "isFloat": false
+    },
+    {
+      "id": 23,
+      "equipmentOptionGrade": "High",
+      "equipmentOptionType": "DamageReduce",
+      "applicableParts": [
+        "Helmet",
+        "Bracelet"
+      ],
+      "weight": 10,
+      "minValue": 30.0,
+      "maxValue": 40.0,
+      "isFloat": false
+    },
+    {
+      "id": 24,
+      "equipmentOptionGrade": "Low",
+      "equipmentOptionType": "AdditionalStr",
+      "applicableParts": [
+        "Helmet",
+        "Accessory"
+      ],
+      "weight": 100,
+      "minValue": 1.0,
+      "maxValue": 3.0,
+      "isFloat": false
+    },
+    {
+      "id": 25,
+      "equipmentOptionGrade": "Middle",
+      "equipmentOptionType": "AdditionalStr",
+      "applicableParts": [
+        "Helmet",
+        "Accessory"
+      ],
+      "weight": 50,
+      "minValue": 4.0,
+      "maxValue": 6.0,
+      "isFloat": false
+    },
+    {
+      "id": 26,
+      "equipmentOptionGrade": "High",
+      "equipmentOptionType": "AdditionalStr",
+      "applicableParts": [
+        "Helmet",
+        "Accessory"
+      ],
+      "weight": 25,
+      "minValue": 7.0,
+      "maxValue": 11.0,
+      "isFloat": false
+    },
+    {
+      "id": 27,
+      "equipmentOptionGrade": "Low",
+      "equipmentOptionType": "AdditionalDex",
+      "applicableParts": [
+        "Gloves",
+        "Accessory"
+      ],
+      "weight": 100,
+      "minValue": 1.0,
+      "maxValue": 3.0,
+      "isFloat": false
+    },
+    {
+      "id": 28,
+      "equipmentOptionGrade": "Middle",
+      "equipmentOptionType": "AdditionalDex",
+      "applicableParts": [
+        "Gloves",
+        "Accessory"
+      ],
+      "weight": 50,
+      "minValue": 4.0,
+      "maxValue": 6.0,
+      "isFloat": false
+    },
+    {
+      "id": 29,
+      "equipmentOptionGrade": "High",
+      "equipmentOptionType": "AdditionalDex",
+      "applicableParts": [
+        "Gloves",
+        "Accessory"
+      ],
+      "weight": 25,
+      "minValue": 7.0,
+      "maxValue": 11.0,
+      "isFloat": false
+    },
+    {
+      "id": 30,
+      "equipmentOptionGrade": "Low",
+      "equipmentOptionType": "AdditionalVit",
+      "applicableParts": [
+        "ChestPlate",
+        "Accessory"
+      ],
+      "weight": 100,
+      "minValue": 1.0,
+      "maxValue": 3.0,
+      "isFloat": false
+    },
+    {
+      "id": 31,
+      "equipmentOptionGrade": "Middle",
+      "equipmentOptionType": "AdditionalVit",
+      "applicableParts": [
+        "ChestPlate",
+        "Accessory"
+      ],
+      "weight": 50,
+      "minValue": 4.0,
+      "maxValue": 6.0,
+      "isFloat": false
+    },
+    {
+      "id": 32,
+      "equipmentOptionGrade": "High",
+      "equipmentOptionType": "AdditionalVit",
+      "applicableParts": [
+        "ChestPlate",
+        "Accessory"
+      ],
+      "weight": 25,
+      "minValue": 7.0,
+      "maxValue": 11.0,
+      "isFloat": false
+    },
+    {
+      "id": 33,
+      "equipmentOptionGrade": "Low",
+      "equipmentOptionType": "AdditionalAgi",
+      "applicableParts": [
+        "Shoes",
+        "Accessory"
+      ],
+      "weight": 100,
+      "minValue": 1.0,
+      "maxValue": 3.0,
+      "isFloat": false
+    },
+    {
+      "id": 34,
+      "equipmentOptionGrade": "Middle",
+      "equipmentOptionType": "AdditionalAgi",
+      "applicableParts": [
+        "Shoes",
+        "Accessory"
+      ],
+      "weight": 50,
+      "minValue": 4.0,
+      "maxValue": 6.0,
+      "isFloat": false
+    },
+    {
+      "id": 35,
+      "equipmentOptionGrade": "High",
+      "equipmentOptionType": "AdditionalAgi",
+      "applicableParts": [
+        "Shoes",
+        "Accessory"
+      ],
+      "weight": 25,
+      "minValue": 7.0,
+      "maxValue": 11.0,
+      "isFloat": false
+    },
+    {
+      "id": 36,
+      "equipmentOptionGrade": "Low",
+      "equipmentOptionType": "AdditionalHp",
+      "applicableParts": [
+        "ChestPlate",
+        "Necklace"
+      ],
+      "weight": 50,
+      "minValue": 9.0,
+      "maxValue": 16.0,
+      "isFloat": false
+    },
+    {
+      "id": 37,
+      "equipmentOptionGrade": "Middle",
+      "equipmentOptionType": "AdditionalHp",
+      "applicableParts": [
+        "ChestPlate",
+        "Necklace"
+      ],
+      "weight": 30,
+      "minValue": 18.0,
+      "maxValue": 29.0,
+      "isFloat": false
+    },
+    {
+      "id": 38,
+      "equipmentOptionGrade": "High",
+      "equipmentOptionType": "AdditionalHp",
+      "applicableParts": [
+        "ChestPlate",
+        "Necklace"
+      ],
+      "weight": 20,
+      "minValue": 30.0,
+      "maxValue": 50.0,
+      "isFloat": false
+    },
+    {
+      "id": 39,
+      "equipmentOptionGrade": "Low",
+      "equipmentOptionType": "AdditionalMp",
+      "applicableParts": [
+        "Helmet",
+        "Necklace"
+      ],
+      "weight": 50,
+      "minValue": 5.0,
+      "maxValue": 11.0,
+      "isFloat": false
+    },
+    {
+      "id": 40,
+      "equipmentOptionGrade": "Middle",
+      "equipmentOptionType": "AdditionalMp",
+      "applicableParts": [
+        "Helmet",
+        "Necklace"
+      ],
+      "weight": 25,
+      "minValue": 12.0,
+      "maxValue": 22.0,
+      "isFloat": false
+    },
+    {
+      "id": 41,
+      "equipmentOptionGrade": "High",
+      "equipmentOptionType": "AdditionalMp",
+      "applicableParts": [
+        "Helmet",
+        "Necklace"
+      ],
+      "weight": 15,
+      "minValue": 23.0,
+      "maxValue": 40.0,
+      "isFloat": false
+    }
+  ]
+}
